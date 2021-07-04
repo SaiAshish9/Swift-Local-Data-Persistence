@@ -1,0 +1,7 @@
+# UITableView
+
+```
+numberOfRowsInSelection
+cellForRowAt
+didSelectRowAt
+```
